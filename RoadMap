@@ -1,3 +1,6 @@
 Lundi 11/09 :
   - connexion à databricks (re création d'un compte)
   - récupération du dataset (https://files.grouplens.org/datasets/movielens/ml-latest-small.zip)
+  - création d'un cluster
+  - crétaion d'un notebook
+  - chargement des fichiers csv + construction des 4 dataframes dans spark
