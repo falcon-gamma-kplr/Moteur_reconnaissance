@@ -4,3 +4,10 @@ Lundi 11/09 :
   - création d'un cluster
   - crétaion d'un notebook
   - chargement des fichiers csv + construction des 4 dataframes dans spark
+  - Group Rating Count by Users
+  - What are all Movie Genres ?
+  - Display the TOP rated Comedy Movies (not aggregated)
+  - Count of Comedy Movies Grouped By Rating
+
+Mardi 12/09 :
+  - 
